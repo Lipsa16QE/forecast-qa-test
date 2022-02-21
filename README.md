@@ -14,5 +14,8 @@ Humidity: 61%
 
 ## Task
 * How will you test the app? Write 1-2 automated tests to prove the correct work of application.
+tried testing a valid and invalid city forcast
 * Ideally, tests should not touch the real service and work without the Internet.
+runs on localhost
 * Bonus task. Create CI pipeline with GitHub Actions or any alternative.
+Configured Circle CI
